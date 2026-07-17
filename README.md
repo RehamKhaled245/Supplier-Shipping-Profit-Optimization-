@@ -1,10 +1,10 @@
-# 📦 Supplier, Shipping & Profit Optimization
+# Supplier, Shipping & Profit Optimization
 
 This repository contains a **Power BI dashboard** designed to analyze supplier performance, shipping operations, and profitability. The project aims to optimize supply chain performance by identifying cost-saving opportunities, improving delivery efficiency, and supporting data-driven business decisions.
 
 ---
 
-## 📌 Key Features
+## Key Features
 
 - **Supplier Performance Analysis:** Evaluated suppliers based on manufacturing lead time, pass rate, and defect rate.
 - **Shipping Analysis:** Compared shipping carriers by delivery lead time and shipping costs to identify the most efficient options.
@@ -14,8 +14,11 @@ This repository contains a **Power BI dashboard** designed to analyze supplier p
 
 ---
 
-## 📈 Impact
+## Impact
 
 Provided actionable insights to optimize supplier selection, reduce operational costs, improve shipping efficiency, and support strategic supply chain decision-making.
 
 ---
+## Technologies
+
+- **Power BI** for data analysis and interactive dashboards.
